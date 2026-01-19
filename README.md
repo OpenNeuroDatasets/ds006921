@@ -9,5 +9,9 @@ For loading and using the data in Matlab we recommend using pop_importbids by EE
 For a complete pipeline for resting state EEG preprocessing and feature extraction in Matlab we recommend DISCOVER-EEG:
 Cristina Gil. (2024). crisglav/discover-eeg: 2.0.0 (2.0.0). Zenodo. https://doi.org/10.5281/zenodo.10797803
 
+## Phenotype data note
+
+Session-level questionnaire data are stored in `phenotype/*_sessions.tsv` and `sub-X_sessions.tsv`. The phenotype files are currently ignored by the BIDS Validator due to incomplete support for phenotype indexing across multiple sessions.
+
 ## License
 CC0

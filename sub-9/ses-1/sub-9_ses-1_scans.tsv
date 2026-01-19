@@ -1,4 +1,4 @@
-filename
-eeg/sub-9_ses-1_task-EYESOPEN_run-1_eeg.set
-eeg/sub-9_ses-1_task-EYESOPEN_run-2_eeg.set
-eeg/sub-9_ses-1_task-EYESCLOSED_run-3_eeg.set
+filename	acq_time
+eeg/sub-9_ses-1_task-EYESOPEN_run-1_eeg.set	2019-01-07T10:28:13
+eeg/sub-9_ses-1_task-EYESOPEN_run-2_eeg.set	2019-01-07T10:37:12
+eeg/sub-9_ses-1_task-EYESCLOSED_run-3_eeg.set	2019-01-07T11:06:58

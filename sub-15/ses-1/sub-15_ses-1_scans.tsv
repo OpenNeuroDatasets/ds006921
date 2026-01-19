@@ -1,4 +1,4 @@
-filename
-eeg/sub-15_ses-1_task-EYESOPEN_run-1_eeg.set
-eeg/sub-15_ses-1_task-EYESCLOSED_run-2_eeg.set
-eeg/sub-15_ses-1_task-EYESCLOSED_run-3_eeg.set
+filename	acq_time
+eeg/sub-15_ses-1_task-EYESOPEN_run-1_eeg.set	2019-05-15T12:41:23
+eeg/sub-15_ses-1_task-EYESCLOSED_run-2_eeg.set	2019-05-15T12:47:44
+eeg/sub-15_ses-1_task-EYESCLOSED_run-3_eeg.set	2019-05-15T14:07:44

@@ -1,5 +1,5 @@
-filename
-eeg/sub-33_ses-1_task-EYESCLOSED_run-1_eeg.set
-eeg/sub-33_ses-1_task-EYESOPEN_run-2_eeg.set
-eeg/sub-33_ses-1_task-EYESCLOSED_run-3_eeg.set
-eeg/sub-33_ses-1_task-EYESOPEN_run-4_eeg.set
+filename	acq_time
+eeg/sub-33_ses-1_task-EYESCLOSED_run-1_eeg.set	2020-03-04T14:21:24
+eeg/sub-33_ses-1_task-EYESOPEN_run-2_eeg.set	2020-03-04T14:35:23
+eeg/sub-33_ses-1_task-EYESCLOSED_run-3_eeg.set	2020-03-04T14:45:49
+eeg/sub-33_ses-1_task-EYESOPEN_run-4_eeg.set	2020-03-04T14:54:29
