@@ -1,2 +1,4 @@
+1.1.0 2026-01-19
+  - - Added acquisitions time, pain ratings and other related variables where applicable to _sessions.tsv and _scans.tsv files
 1.0.0 2025-11-25
   - Initial version
