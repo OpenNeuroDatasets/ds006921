@@ -1,0 +1,250 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Questionnaire assessing phantom limb pain and related clinical variables"
+  },
+  "PLPNRS": {
+    "Description": "How much is your current phantom limb pain intensity?",
+    "Levels": {
+      "0": "0 - No pain",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10 - Worst possible pain"
+    }
+  },
+  "PLPWords": {
+    "Description": "How much is your current phantom limb pain intensity?",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe",
+      "4": "4 - Terrible",
+      "5": "5 - Worst possible",
+    }
+  },
+  "MPQThrobbing": {
+    "Description": "The extent to which the phantom pain can be described as throbbing",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQShooting": {
+    "Description": "The extent to which the phantom pain can be described as shooting",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQStabbing": {
+    "Description": "The extent to which the phantom pain can be described as stabbing",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQCramping": {
+    "Description": "The extent to which the phantom pain can be described as cramping",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQSharp": {
+    "Description": "The extent to which the phantom pain can be described as sharp",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQGnawing": {
+    "Description": "The extent to which the phantom pain can be described as gnawing",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQHotBurning": {
+    "Description": "The extent to which the phantom pain can be described as hot-burning",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQAching": {
+    "Description": "The extent to which the phantom pain can be described as aching",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQHeavy": {
+    "Description": "The extent to which the phantom pain can be described as heavy",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQTender": {
+    "Description": "The extent to which the phantom pain can be described as tender",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQSplitting": {
+    "Description": "The extent to which the phantom pain can be described as splitting",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQTiringExhausting": {
+    "Description": "The extent to which the phantom pain can be described as tiring-exhausting",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQSickening": {
+    "Description": "The extent to which the phantom pain can be described as sickening",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQFearful": {
+    "Description": "The extent to which the phantom pain can be described as fearful",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "MPQPunishingCruel": {
+    "Description": "The extent to which the phantom pain can be described as punishing-cruel",
+    "Levels": {
+      "0": "0 - None",
+      "1": "1 - Mild",
+      "2": "2 - Moderate",
+      "3": "3 - Severe"
+    }
+  },
+  "ADLInterference": {
+  	"Description": "How much has phantom pain interfered with your activities of daily living in the last week?",
+  	"Levels": {
+  	  "0": "0 - No interference",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10 - Full interference"
+  	}
+  },
+  "WorkInterference": {
+  	"Description": "How much has phantom pain interfered with your ability to work in the last week?",
+  	"Levels": {
+  	  "0": "0 - No interference",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10 - Full interference"
+  	}
+  },
+  "SleepInterference": {
+  	"Description": "How much has phantom pain interfered with your sleep in the last week?",
+  	"Levels": {
+  	  "0": "0 - No interference",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10 - Full interference"
+  	}
+  },
+  "PLPLocation": {
+  	"Description": "If you have PLP in your phantom limb, please look at the picture below and mark the location(s) of the pain below. (See separate image file, PLPlocation.png)",
+  	"Levels": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6"
+  	}
+  },
+  "Telescoping": {
+  	"Description": "If you experience that the phantom limb is shortened or even disappears into the stump (telescoping) please look at the picture and mark the perceived location of the hand/foot. (See separate image file, PLPlocation.png)",
+  	"Levels": {
+      "0": "No telescoping",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6"
+  	}
+  },
+  "PLPFrequency": {
+  	"Description": "How often do you have PLP?",
+  	"Levels": {
+  	  "0": "Constantly",
+      "1": "Few times per day",
+      "2": "Once a day",
+      "3": "Once a week",
+      "4": "Few times per month",
+      "5": "Once a month",
+      "6": "Never"
+  	}
+  }
+}
