@@ -1,6 +1,6 @@
 # High Density Resting State EEG of Phantom Limb Pain and Controls
 
-This dataset comprises resting state high density EEG data (64 or 128 channels) collected from three categories of subjects: amputees with phantom limb pain, amputees without phantom limb pain, and intact, pain free controls. The data has been organised accroding to the BIDS standard for more accesible reuse. Recordings are approximately 7 minutes long with eyes opened or closed, as indicated by task.
+This dataset comprises resting state high density EEG data (64 or 128 channels) collected from three categories of subjects: amputees with phantom limb pain, amputees without phantom limb pain, and intact, pain free controls. The data has been organised according to the BIDS standard for more accessible reuse. Recordings are approximately 7 minutes long with eyes opened or closed, as indicated by task.
 
 ## Usage
 
@@ -11,7 +11,7 @@ Cristina Gil. (2024). crisglav/discover-eeg: 2.0.0 (2.0.0). Zenodo. https://doi.
 
 ## Phenotype data note
 
-Session-level questionnaire data are stored in `phenotype/*_sessions.tsv` and `sub-X_sessions.tsv`. The phenotype files are currently ignored by the BIDS Validator due to incomplete support for phenotype indexing across multiple sessions.
+Session-level questionnaire data are stored in `phenotype/pain-questionnaire_sessions.tsv` with descriptions of the corresponding questionnaire items in `phenotype/pain-questionnaire_sessions.json`. The phenotype files are currently ignored by the BIDS Validator due to incomplete support for phenotype indexing across multiple sessions.
 
 ## License
 CC0
